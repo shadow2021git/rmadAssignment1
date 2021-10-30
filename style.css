@@ -1,0 +1,32 @@
+body{background-color:#d5d7db;}
+
+h1{font-family:Arial Black;
+text-align:center;
+padding:8px;
+background-color:#b7bdc7;
+color:#030982
+}
+
+h3{font-family:Arial Black;
+text-align:center;
+padding:8px;
+background-color:#b7bdc7;
+color:#030982
+}
+
+.beauty{
+background-color:white;
+color:black;
+font-family:verdana;
+border:5px solid #030982;
+margin:20px;
+padding:20px;
+border-radius: 10px;
+}
+
+table
+{border:1px solid blue;background-color:white;}
+
+td 
+{padding:4px;font-family:verdana;
+font-size:20px;color:#010747;}
